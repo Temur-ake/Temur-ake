@@ -26,8 +26,7 @@
     <a href="https://www.leetcode.com/temur_oo7" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="temur_oo7" height="30" width="40" />
     </a>
-    <a href="https://t.me/C_W24" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="temur_oo7" height="30" width="40" />
+    <a href="https://t.me/C_W24" target="blank"> Telegram
     </a>
 </p>
 
@@ -70,16 +69,6 @@
     </a>
     <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" alt="elasticsearch" width="40" height="40"/> 
-    </a>
-    <a href="https://www.celeryproject.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/celery/celery-original-wordmark.svg" alt="celery" width="40" height="40"/> 
-    </a>
-    <!-- Add others similarly -->
-    <a href="https://www.aiogram.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://aiogram.dev/docs/static/logo.svg" alt="aiogram" width="40" height="40"/>
-    </a>
-    <a href="https://pydantic-docs.helpmanual.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pydantic/pydantic-original.svg" alt="pydantic" width="40" height="40"/>
     </a>
     <!-- Add more icons as needed for remaining technologies -->
 </p>
