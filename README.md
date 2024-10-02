@@ -4,26 +4,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temur-ake&label=Profile%20views&color=0e75b6&style=flat" alt="temur-ake" /> </p>
 
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
 
 
 
-
-- 🔭 I’m currently learning on SQL Database
+- 🔭 I’m currently learning on Fastapi framework
 
 - 💻 I can build Telegram bots
 
-- ⚡ Fun fact **I am serious**
+- ⚡ And also I can build serios projects (websites)
 
 </br></br></br>
-[
-
-</br>
-<img src="https://camo.githubusercontent.com/99794108b1606ef058fdf2ec1f529b6b7b0abebf2571fea175b787e8a0db445b/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake" data-canonical-src="https://profile-readme-generator.com/assets/snake.svg" style="max-width: 100%;">
-
-]
 
 </br>
 
